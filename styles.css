@@ -1,0 +1,13 @@
+#camera-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#photo-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#captured-photo {
+    max-width: 100%;
+}
